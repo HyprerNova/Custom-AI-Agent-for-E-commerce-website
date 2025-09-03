@@ -1,0 +1,273 @@
+{
+  "store": "Hot Wings RC Toys",
+  "categories": {
+    "cars": {
+      "name": "RC Cars",
+      "products": [
+        {
+          "product": "High-Speed Racing Car",
+         “Image” : “https://www.hearnshobbies.com/cdn/shop/articles/How-fast-can-RC-cars-go.jpg?v=1663931507”,
+          "specs": {
+            "Scale": "1:10",
+            "Speed": "45 mph",
+            "Battery": "7.4V LiPo",
+            "Range": "100m"
+          },
+          "category": "cars",
+          "price": 299.99
+        },
+        {
+          "product": "Rugged Off-Road Vehicle",
+         “Image” : ‘https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1738089615-81t7DubsCrL.jpg?crop=0.691xw:0.986xh;0.152xw,0&resize=980:*’,
+          "specs": {
+            "Scale": "1:8",
+            "Speed": "40 mph",
+            "Battery": "11.1V LiPo",
+            "Range": "120m"
+          },
+          "category": "cars",
+          "price": 349.99
+        },
+        {
+          "product": "Professional-Grade Street Racing Car",
+          “Image” : ‘https://content.instructables.com/FWX/DKBH/GB0JQNK3/FWXDKBHGB0JQNK3.jpg?auto=webp’,
+          "specs": {
+            "Scale": "1:12",
+            "Speed": "35 mph",
+            "Battery": "7.4V LiPo",
+            "Range": "80m"
+          },
+          "category": "cars",
+          "price": 199.99
+        }
+      ]
+    },
+    "helicopters": {
+      "name": "RC Helicopters",
+      "products": [
+        {
+          "product": "Professional-Grade Helicopter",
+          “Image” : “https://rcdrone.top/cdn/shop/products/S8c0a215f9c4a45c688d79b04f525a0f4r.jpg?v=1711183808”,
+          "specs": {
+            "Channels": "6CH",
+            "Flight Time": "12 minutes",
+            "Battery": "11.1V LiPo",
+            "Range": "150m"
+          },
+          "category": "helicopters",
+          "price": 459.99
+        },
+        {
+          "product": "Military-Style Attack Helicopter",
+         “Image”: “https://rukminim2.flixcart.com/image/704/844/remote-control-toy/3/x/r/v912-4-channel-big-rc-helicopter-2-4-ghz-toyzio-original-imaeqrf6z7njveyh.jpeg?q=90&crop=false”,
+          "specs": {
+            "Channels": "4CH",
+            "Flight Time": "10 minutes",
+            "Battery": "7.4V LiPo",
+            "Range": "100m"
+          },
+          "category": "helicopters",
+          "price": 599.99
+        },
+        {
+          "product": "Compact Indoor Helicopter",
+         “Image”: “https://www.exhobby.com/cdn/shop/collections/RC_helicopter_collection.jpg?v=1721701145”,
+          "specs": {
+            "Channels": "3.5CH",
+            "Flight Time": "8 minutes",
+            "Battery": "3.7V LiPo",
+            "Range": "30m"
+          },
+          "category": "helicopters",
+          "price": 89.99
+        }
+      ]
+    },
+    "drones": {
+      "name": "RC Drones",
+      "products": [
+        {
+          "product": "Professional 4K Camera Drone",
+         “Image”: “https://se-cdn.djiits.com/tpc/uploads/carousel/image/f96def8770cb7529d7a98731fa2117dd@ultra.jpg”,
+          "specs": {
+            "Camera": "4K@60fps",
+            "Flight Time": "30 minutes",
+            "Battery": "11.1V LiPo",
+            "Range": "2km"
+          },
+          "category": "drones",
+          "price": 899.99
+        },
+        {
+          "product": "High-Speed Racing Drone",
+          “Image”: “https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS33XkqlK4g3aJe5ZyLT2FBCh09huhtdVaK_w&s”, 
+          "specs": {
+            "Speed": "80 mph",
+            "Flight Time": "8 minutes",
+            "Battery": "14.8V LiPo",
+            "Range": "500m"
+          },
+          "category": "drones",
+          "price": 559.99
+        },
+        {
+          "product": "Military-Inspired Reconnaissance Drone",
+          “Image”: “https://cdn.shopclues.com/images1/thumbnails/97146/320/320/143833012-97146724-1551073139.jpg”,
+          "specs": {
+            "Camera": "4K + Thermal",
+            "Flight Time": "45 minutes",
+            "Battery": "22.2V LiPo",
+            "Range": "5km"
+          },
+          "category": "drones",
+          "price": 1299.99
+        }
+      ]
+    },
+    "accessories": {
+      "name": "RC Accessories",
+      "products": [
+        {
+          "product": "High-Capacity 7.4V LiPo Battery",
+          "specs": {
+            "Voltage": "7.4V",
+            "Capacity": "2200mAh",
+            "Discharge": "25C",
+            "Connector": "XT60"
+          },
+          "category": "accessories",
+          "price": 39.99
+        },
+        {
+          "product": "Professional 16-Channel Radio Transmitter",
+          "specs": {
+            "Channels": "16CH",
+            "Protocol": "2.4GHz",
+            "Range": "2km",
+            "Battery": "Internal Li-ion"
+          },
+          "category": "accessories",
+          "price": 299.99
+        },
+        {
+          "product": "Fast Charging Station",
+          "specs": {
+            "Ports": "4 charging ports",
+            "Power": "200W",
+            "Types": "LiPo/NiMH/Li-ion",
+            "Features": "Balance charging"
+          },
+          "category": "accessories",
+          "price": 149.99
+        }
+      ]
+    }
+  },
+  "total_products": 12,
+  "price_range": {
+    "min": 39.99,
+    "max": 1299.99
+  }
+}
+
+
+Possible Question and Answers
+
+{
+  "training_qa": [
+    {
+      "question": "What's the fastest RC car you have?",
+      "answer": "Our fastest RC car is the High-Speed Racing Car, which can reach speeds up to 45 mph! It's a 1:10 scale model with a 7.4V LiPo battery and 100m range. It's priced at $299.99."
+    },
+    {
+      "question": "Which drone has the longest flight time?",
+      "answer": "The Military-Inspired Reconnaissance Drone has the longest flight time at 45 minutes. It features 4K + Thermal camera, 22.2V LiPo battery, and an impressive 5km range. It's our premium model at $1299.99."
+    },
+    {
+      "question": "Do you have any helicopters under $100?",
+      "answer": "Yes! The Compact Indoor Helicopter is perfect for you at just $89.99. It's a 3.5CH helicopter with 8 minutes flight time, 3.7V LiPo battery, and 30m range - ideal for indoor flying!"
+    },
+    {
+      "question": "What's the difference between the racing car and off-road vehicle?",
+      "answer": "Great question! The High-Speed Racing Car (1:10 scale, 45 mph, $299.99) is built for speed on smooth surfaces, while the Rugged Off-Road Vehicle (1:8 scale, 40 mph, $349.99) is larger, more durable, and designed for rough terrain with longer 120m range."
+    },
+    {
+      "question": "Which products use 7.4V batteries?",
+      "answer": "Several of our products use 7.4V LiPo batteries: the High-Speed Racing Car, Professional-Grade Street Racing Car, and Military-Style Attack Helicopter. We also sell a High-Capacity 7.4V LiPo Battery as a replacement for $39.99."
+    },
+    {
+      "question": "What's your most expensive product?",
+      "answer": "Our premium product is the Military-Inspired Reconnaissance Drone at $1299.99. It features dual 4K + Thermal cameras, 45 minutes flight time, and an incredible 5km range - perfect for professional applications."
+    },
+    {
+      "question": "Do you sell charging equipment?",
+      "answer": "Absolutely! We have a Fast Charging Station for $149.99 that features 4 charging ports, 200W power, and supports LiPo/NiMH/Li-ion batteries with balance charging capability."
+    },
+    {
+      "question": "Which helicopter is best for beginners?",
+      "answer": "I'd recommend the Compact Indoor Helicopter at $89.99. It's 3.5CH which makes it easier to control, perfect for indoor practice, and very affordable. Once you master it, you can upgrade to our 4CH or 6CH models!"
+    },
+    {
+      "question": "What's the range on your racing drone?",
+      "answer": "The High-Speed Racing Drone has a 500m range and can reach speeds up to 80 mph! It has an 8-minute flight time with a 14.8V LiPo battery. It's priced at $559.99 and built for speed and agility."
+    },
+    {
+      "question": "Can you recommend something around $300?",
+      "answer": "Perfect! For around $300, I'd suggest either the High-Speed Racing Car at $299.99 (45 mph, 1:10 scale) or the Professional 16-Channel Radio Transmitter at $299.99 (2.4GHz, 2km range). Both are excellent choices depending on whether you want a vehicle or premium controller!"
+    },
+    {
+      "question": "What accessories do I need for the off-road vehicle?",
+      "answer": "The Rugged Off-Road Vehicle comes ready to run, but I'd recommend getting our High-Capacity 7.4V LiPo Battery ($39.99) as a spare since it uses 11.1V - you might want extra runtime for those long off-road adventures!"
+    },
+    {
+      "question": "Which drone is good for photography?",
+      "answer": "The Professional 4K Camera Drone is perfect for photography! It shoots 4K@60fps, has a 30-minute flight time, and 2km range for $899.99. For even more advanced work, the Military Reconnaissance Drone adds thermal imaging for $1299.99."
+    },
+    {
+      "question": "What's the smallest scale car you have?",
+      "answer": "Our smallest scale car is the Professional-Grade Street Racing Car at 1:12 scale. Despite its compact size, it still reaches 35 mph with 80m range and is our most affordable car at $199.99!"
+    },
+    {
+      "question": "How long do the helicopter batteries last?",
+      "answer": "Flight times vary by model: the Compact Indoor Helicopter gives 8 minutes, the Military-Style Attack Helicopter provides 10 minutes, and our Professional-Grade Helicopter offers the longest at 12 minutes of flight time."
+    },
+    {
+      "question": "Do you have anything with thermal camera?",
+      "answer": "Yes! The Military-Inspired Reconnaissance Drone features both 4K and thermal cameras. It's designed for professional surveillance and search applications, with 45 minutes flight time and 5km range for $1299.99."
+    },
+    {
+      "question": "What's the cheapest product you have?",
+      "answer": "Our most affordable product is the High-Capacity 7.4V LiPo Battery at $39.99. For complete vehicles, the Compact Indoor Helicopter at $89.99 is our entry-level option - perfect for beginners!"
+    },
+    {
+      "question": "Which car has the longest range?",
+      "answer": "The Rugged Off-Road Vehicle has the longest range at 120m. It's built for outdoor adventures with its 1:8 scale, 40 mph speed, and durable construction. It's priced at $349.99."
+    },
+    {
+      "question": "Can I get a professional radio transmitter?",
+      "answer": "Absolutely! We offer the Professional 16-Channel Radio Transmitter for $299.99. It features 16 channels, 2.4GHz protocol, impressive 2km range, and internal Li-ion battery - perfect for advanced pilots!"
+    },
+    {
+      "question": "What helicopter has the most channels?",
+      "answer": "The Professional-Grade Helicopter has the most channels at 6CH, giving you maximum control precision. It offers 12 minutes flight time, 11.1V LiPo battery, 150m range, and is priced at $459.99."
+    },
+    {
+      "question": "Is there anything for indoor use?",
+      "answer": "Perfect question! The Compact Indoor Helicopter is specifically designed for indoor flying. At $89.99, it has 3.5CH control, 8 minutes flight time, and 30m range - ideal for flying inside your home safely!"
+    }
+  ],
+  "categories_covered": ["cars", "helicopters", "drones", "accessories"],
+  "question_types": [
+    "Product comparisons",
+    "Price inquiries", 
+    "Specifications",
+    "Recommendations",
+    "Compatibility",
+    "Use case scenarios"
+  ]
+}
+
+
+
+
+
